@@ -1,0 +1,13 @@
+.singerStyle {
+  border: 2px solid red;
+  margin: 5px;
+  padding: 20px;
+  border-radius: 15px;
+  font-size: larger;
+  font-weight: bold;
+  font-family: sans-serif;
+}
+
+.singerStyle h3 {
+  color: purple;
+}
